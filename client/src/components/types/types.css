@@ -1,0 +1,15 @@
+.containerStyle {
+    height: 42rem;
+    width: 10%;
+    background-color: #31cadf;
+    border-radius: 50px;
+    margin: 10px;
+    margin-left: 600px;
+  }
+
+  .divStyles {
+    padding: 3px;
+    color: rgb(29, 26, 26);
+    font-weight: bold;
+    margin: 5px;
+  }

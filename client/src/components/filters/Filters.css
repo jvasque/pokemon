@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Chango&family=Josefin+Sans:ital,wght@1,700&display=swap");
+
+
+.dropdown-container {
+  width: 250px;
+  margin: 50px auto;
+  position: relative;
+}
+
+select {
+  width: auto;
+  height: auto;
+  font-size: 100%;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #962bc0;
+  border: none;
+  border-bottom: 2px solid #412296;
+  color: rgb(250, 237, 237);
+  appearance: none;
+  padding: 10px;
+  padding-right: 20px;
+  
+}
+
+p{
+    color:blanchedalmond;
+    font-family: "Comic Sans MS", "Comic Sans";
+}

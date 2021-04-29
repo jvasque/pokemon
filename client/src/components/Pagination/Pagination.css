@@ -1,0 +1,22 @@
+button {
+	box-shadow: 0px 10px 14px -7px #e4eef0;
+	background:linear-gradient(to bottom, #a704bd 5%, #ccd6d6 100%);
+	background-color:#04bd60;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#161516;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:3px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #184655;
+    margin:2px;
+}
+button:hover {
+	background:linear-gradient(to bottom, #3c3abf 5%, #12482da6 100%);
+	background-color:#408c99;
+}
+
+
