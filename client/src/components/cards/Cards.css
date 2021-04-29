@@ -1,0 +1,340 @@
+@import url("https://fonts.googleapis.com/css2?family=Chango&family=Josefin+Sans:ital,wght@1,700&display=swap");
+
+.input {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
+
+.btn {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 255, 0.335),
+    rgba(255, 0, 0, 0.322) 30px,
+    rgba(255, 255, 0, 0.376) 120px,
+    rgba(0, 128, 0, 0.233)
+  );
+  margin: 15px;
+  border-radius: 10px; 
+  color: rgb(1, 3, 3);
+  padding-top: 0;
+}
+
+.card {
+  font-family: "Comic Sans MS", "Comic Sans";
+}
+
+h5 {
+  font-size: 25px;
+  font-family: cursive;
+}
+
+.fire {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(36, 24, 3, 0.198),
+    rgba(53, 33, 12, 0.698) 30px,
+    rgba(131, 66, 8, 0.959) 120px,
+    rgba(37, 25, 13, 0.63)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(209, 231, 231);
+  padding-top: 0;
+}
+
+.water {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(3, 17, 36, 0.198),
+    rgba(12, 41, 53, 0.698) 30px,
+    rgba(8, 45, 131, 0.959) 120px,
+    rgba(37, 25, 13, 0.63)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(209, 231, 231);
+  padding-top: 0;
+}
+
+.grass {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(35, 37, 13, 0.918),
+    rgba(12, 53, 31, 0.698) 30px,
+    rgba(63, 131, 8, 0.959) 120px,
+    rgba(10, 36, 3, 0.198)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(209, 231, 231);
+  padding-top: 0;
+}
+
+.bug {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(154, 184, 48, 0.918),
+    rgba(10, 60, 33, 0.698) 30px,
+    rgba(148, 228, 36, 0.959) 120px,
+    rgba(23, 90, 5, 0.453)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(209, 231, 231);
+  padding-top: 0;
+}
+
+.normal {
+}
+
+.fighting {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 48, 48, 0.918),
+    rgba(60, 10, 10, 0.698) 30px,
+    rgba(228, 36, 36, 0.959) 120px,
+    rgba(90, 5, 5, 0.453)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(209, 231, 231);
+  padding-top: 0;
+}
+
+.poison {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 48, 184, 0.918),
+    rgba(54, 10, 60, 0.698) 30px,
+    rgba(174, 36, 228, 0.959) 120px,
+    rgba(90, 5, 55, 0.453)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(209, 231, 231);
+  padding-top: 0;
+}
+
+.ground {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(184, 125, 48, 0.918),
+    rgba(85, 73, 14, 0.987) 30px,
+    rgba(228, 199, 36, 0.959) 120px,
+    rgba(90, 63, 5, 0.453)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(48, 24, 157);
+  padding-top: 0;
+}
+
+.rock {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(228, 215, 197, 0.918),
+    rgba(90, 89, 83, 0.698) 30px,
+    rgba(230, 229, 225, 0.959) 120px,
+    rgba(92, 91, 89, 0.453)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.ghost {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(218, 13, 177, 0.918),
+    rgba(92, 7, 68, 0.698) 30px,
+    rgba(209, 13, 131, 0.959) 120px,
+    rgba(100, 10, 70, 0.542)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(9, 5, 5);
+  padding-top: 0;
+}
+
+.electric {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(177, 220, 20, 0.974),
+    rgba(163, 196, 45, 0.837) 30px,
+    rgba(64, 135, 23, 0.959) 120px,
+    rgb(167, 223, 76)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.steel {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(232, 166, 68, 0.974),
+    rgba(228, 156, 48, 0.446) 30px,
+    rgba(228, 184, 119, 0.974) 120px,
+    rgb(225, 203, 171)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.ice {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(68, 207, 232, 0.974),
+    rgba(10, 97, 155, 0.446) 30px,
+    rgba(79, 116, 208, 0.974) 120px,
+    rgb(61, 66, 208)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.psychic {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(68, 216, 232, 0.974),
+    rgba(10, 141, 155, 0.446) 30px,
+    rgba(79, 178, 208, 0.974) 120px,
+    rgb(61, 198, 208)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.dragon {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(194, 183, 27, 0.974),
+    rgba(237, 240, 41, 0.981) 30px,
+    rgb(242, 233, 113) 120px,
+    rgb(199, 180, 72)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.dark {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(55, 54, 53, 0.193),
+    rgba(73, 73, 72, 0.698) 30px,
+    rgba(158, 158, 139, 0.959) 120px,
+    rgba(38, 38, 34, 0.179)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.fairy {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(74, 54, 106, 0.193),
+    rgba(179, 114, 223, 0.698) 30px,
+    rgba(175, 133, 242, 0.959) 120px,
+    rgba(62, 9, 116, 0.179)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.normal {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(50, 5, 214, 0.193),
+    rgba(4, 60, 121, 0.698) 30px,
+    rgba(226, 221, 245, 0.994) 120px,
+    rgba(62, 9, 116, 0.179)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}
+
+.flying {
+  align-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(239, 243, 245, 0.193),
+    rgba(237, 241, 248, 0.698) 30px,
+    rgba(236, 233, 247, 0.994) 120px,
+    rgb(168, 171, 172)
+  );
+  margin: 15px;
+  height: 20rem;
+  border-radius: 10px;
+  width: 10rem;
+  color: rgb(0, 0, 0);
+  padding-top: 0;
+}

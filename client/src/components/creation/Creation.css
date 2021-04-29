@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates);
+
+.error {
+    border: 1px solid red;
+  }
+
+.principale{
+  color:rgb(247, 247, 151);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  margin-bottom: 50px;
+  font-size: 20px;
+
+}
+
+
+
+.forma {
+  overflow: hidden;
+}
+
+.labele {
+  float: left;
+  width: 500px;
+  padding-right: 24px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.input {
+  float: left;
+  width: calc(100% - 200px);
+  background-color: rgb(213, 237, 241);
+}
+
+.button {
+  float: center;
+  width: calc(100% - 200px);
+}
