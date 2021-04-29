@@ -33,17 +33,31 @@ DB_HOST=localhost
 <img src="https://github.com/jvasque/pokemon/blob/main/client/src/img/home.png" alt="Landing" title="Landing"/>
 <br>
 <br>
-<h2>Home</h2>
+<h3>Home</h3>
 <br>
 <p>The cards have a different color for each type of pokemon</p>
 <br>
 <img src="https://github.com/jvasque/pokemon/blob/main/client/src/img/page.png" alt="principal page" title="Principal page"/>
 <br>
 <br>
-<h2>Filters</h2>
+<h4>Filters</h4>
+<br>
+<br>
 <br>
 <p>Flying filter</p>
-<img src="https://github.com/jvasque/pokemon/blob/main/client/src/img/filters.png" alt="Flying filte" title="Flying filte"/>
+<img src="https://github.com/jvasque/pokemon/blob/main/client/src/img/filters.png" alt="Flying filter" title="Flying filter"/>
+<br>
+<br>
 <br>
 <p>Electric filter</p>
 <img src="https://github.com/jvasque/pokemon/blob/main/client/src/img/filters1.png" alt="Electric filter" title="Electric filter"/>
+<br>
+<br>
+<p>Details Card</p>
+<br>
+<br>
+<p>When you do click on the card, appear the details</p>
+<img src="https://github.com/jvasque/pokemon/blob/main/client/src/img/details.png" alt="Details card" title="Details card"/>
+
+
+
