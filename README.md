@@ -19,9 +19,9 @@ DB_HOST=localhost
 
 ```
 
-3. run the command  ```js npm i ``` in the folders api and client.
+3. run the command  ``` npm i ``` in the folders api and client.
 
-4. Finally execute the command ```js npm start ``` 
+4. Finally execute the command ``` npm start ``` 
 
 5. Enjoy it.
 
