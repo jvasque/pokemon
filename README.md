@@ -3,6 +3,8 @@ One of my first creation with database in postgres, backend with express, the co
 
 styles can still be improved, maybe make a version wit amazing styles.
 
+IMPORTANT NOTES: If below can't see images of project, refresh the page.
+
 <a href="https://s3.gifyu.com/images/pokemon6dd68e956cb121c4.gif">demo<a>
   
   
